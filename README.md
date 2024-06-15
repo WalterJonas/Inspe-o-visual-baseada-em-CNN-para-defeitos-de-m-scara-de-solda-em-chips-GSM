@@ -19,6 +19,14 @@ Simulação de condições adversas
 - Borramento Gaussiano (Para simular uma câmera desfocada)
 
 
+Detecção das falhas👇
+
+Correto
+![Perfeito](https://github.com/WalterJonas/Inspecao-visual-baseada-em-CNN-para-deteccao-de-defeitos-de-mascara-de-solda-em-chips-GSM/assets/74218624/da472f78-4a42-4aa6-9c7d-24f159ae10ad)
+Falha
+![Defeituoso](https://github.com/WalterJonas/Inspecao-visual-baseada-em-CNN-para-deteccao-de-defeitos-de-mascara-de-solda-em-chips-GSM/assets/74218624/dbbb5b40-ff57-431c-a30f-7366985252e7)
+
+
 Borramento Gaussiano 👇
 
 5x5
@@ -47,6 +55,27 @@ Ruído Sal e Pimenta 👇
 ![S P-0 01](https://github.com/WalterJonas/Inspecao-visual-baseada-em-CNN-para-deteccao-de-defeitos-de-mascara-de-solda-em-chips-GSM/assets/74218624/7de426e2-32ad-454c-83e7-20d6b916ce3f)
 0.02 
 ![S P-0 02](https://github.com/WalterJonas/Inspecao-visual-baseada-em-CNN-para-deteccao-de-defeitos-de-mascara-de-solda-em-chips-GSM/assets/74218624/df2c69f8-6e6e-484b-aafc-6aa1e3aceb1d)
+
+
+Acurácia dos modelos com as imagens originais
+- CNN: 91.668
+- CNN+Random Forest: 92.150
+- CNN+SVM: 92.876
+
+Acurácia dos modelos com o ruído Gaussiano - Densidade 0.02
+- CNN: 90.480
+- CNN+Random Forest: 91.105
+- CNN+SVM: 91.276
+
+Acurácia dos modelos com o ruído Sal e Pimenta - Densidade 0.02
+- CNN: 90.180
+- CNN+Random Forest: 91.020
+- CNN+SVM: 92.176
+
+Acurácia dos modelos com o borramento Gaussiano - Janela 11x11 (borrando muito)
+- CNN: 85.312
+- CNN+Random Forest: 91.089
+- CNN+SVM: 90.050
 
 
 
