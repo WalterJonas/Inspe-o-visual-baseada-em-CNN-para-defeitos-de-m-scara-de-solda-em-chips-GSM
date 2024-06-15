@@ -25,8 +25,6 @@ Borramento Gaussiano 👇
 ![5x5 (1)](https://github.com/WalterJonas/Inspecao-visual-baseada-em-CNN-para-deteccao-de-defeitos-de-mascara-de-solda-em-chips-GSM/assets/74218624/cb784d0f-9381-462a-b4f7-303e0c23833f)
 7x7
 ![7x7](https://github.com/WalterJonas/Inspecao-visual-baseada-em-CNN-para-deteccao-de-defeitos-de-mascara-de-solda-em-chips-GSM/assets/74218624/4ef15f6a-d60b-4798-aab7-fb34f7ed9110)
-9x9
-![9x9](https://github.com/WalterJonas/Inspecao-visual-baseada-em-CNN-para-deteccao-de-defeitos-de-mascara-de-solda-em-chips-GSM/assets/74218624/7949fb3f-fc83-4baa-acc8-222ce9b2a927)
 11x11
 ![11x11](https://github.com/WalterJonas/Inspecao-visual-baseada-em-CNN-para-deteccao-de-defeitos-de-mascara-de-solda-em-chips-GSM/assets/74218624/a88daf46-f85e-41a7-b448-182e869e2871)
 
