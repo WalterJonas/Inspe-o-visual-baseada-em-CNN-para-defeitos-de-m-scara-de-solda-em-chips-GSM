@@ -16,7 +16,7 @@ from skimage.util import random_noise
 class Provir3(object):
     
     def __init__(self):
-        self.path1 = '/home/jonas/Walter - ICET/Imagens Redimensionadas/'
+        self.path1 = '/home/jonas/Walter - ICET/Dataset/'  #Modifique o diretório com base nas pastas do seu projeto
         self.X_train = []
         self.Y_train = []
         self.X_test = []
