@@ -15,9 +15,12 @@ Técnicas Utilizadas
 
 Simulação de condições adversas
 - Ruído Gaussiano
-- Ruído Sal e Pimenta
+- Ruído Sal e Pimenta  
 - Borramento Gaussiano (Para simular uma câmera desfocada)
 
+Chip Quectel M95 antes da segmentação lateral👇
+
+![ImageToStl com_m95(3)](https://github.com/WalterJonas/Inspecao-visual-baseada-em-CNN-para-deteccao-de-defeitos-de-mascara-de-solda-em-chips-GSM/assets/74218624/39ffcd0f-7f27-4625-b912-233a9f109485)
 
 Detecção das falhas👇
 
